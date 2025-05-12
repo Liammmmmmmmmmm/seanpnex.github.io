@@ -44,7 +44,7 @@ layout: page
     </div>
     <span class="separator">|</span>
     <div class="scroll-link-box">
-        <a href="/liampage/blogs/start" class="scroll-link">Blog</a>
+        <a href="/liampage/blogs/0-start" class="scroll-link">Blog</a>
     </div>
 
 
