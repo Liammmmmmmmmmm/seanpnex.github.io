@@ -36,15 +36,15 @@ layout: page
 
 <div class="scroll-link-container">
     <div class="scroll-link-box">
-        <a href="/projects/NCCP" class="scroll-link">Projects</a>
+        <a href="/projects/NCCP.md" class="scroll-link">Projects</a>
     </div>
     <span class="separator">|</span>
     <div class="scroll-link-box">
-        <a href="/resume/resume" class="scroll-link">Resume</a>
+        <a href="/resume/resume.md" class="scroll-link">Resume</a>
     </div>
     <span class="separator">|</span>
     <div class="scroll-link-box">
-        <a href="/blogs/0-start" class="scroll-link">Blog</a>
+        <a href="/blogs/0-start.md" class="scroll-link">Blog</a>
     </div>
 
 
