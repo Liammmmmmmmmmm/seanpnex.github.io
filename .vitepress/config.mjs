@@ -8,7 +8,7 @@ export default withMermaid(
   defineConfig({
     base:"/liampage/",
     head: [["link", { rel: "icon", href: "/favicon.ico" }]],
-    title: "Sean's Homepage",
+    title: "Liam's Homepage",
     description: "Liam's Homepage",
     markdown: {
       math: true,

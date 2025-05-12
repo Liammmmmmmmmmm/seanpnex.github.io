@@ -13,7 +13,7 @@ layout: page
     {        
         avatar: "https://github.com/Lidamn.png",
         name: "Tianlai Li",
-        title: "Data Analyst | Algorithm Engineer",
+        title: "Data Analyst | Algorithm Engineer | Developer",
         links: [
             {icon: "github", link: "https://github.com/Lidamn"},
         ]
