@@ -11,12 +11,11 @@ layout: page
 
     const members = [
     {        
-        avatar: "https://github.com/SEANPNEX.png",
+        avatar: "https://github.com/Lidamn.png",
         name: "Sean Guo",
-        title: "Developer | Data Analyst | Business Analyst",
+        title: "Data Analyst | Algorithm Engineer",
         links: [
-            {icon: "github", link: "https://github.com/SEANPNEX"},
-            {icon: "linkedin", link: "https://www.linkedin.com/in/shun-guo-61393a196/"}
+            {icon: "github", link: "https://github.com/Lidamn"},
         ]
         }
     ]
@@ -28,7 +27,7 @@ layout: page
         My Profile
     </template>
     <template #lead>
-        First Year Student at Duke Fintech
+        Graduate student from Duke ECE
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
@@ -45,7 +44,7 @@ layout: page
     </div>
     <span class="separator">|</span>
     <div class="scroll-link-box">
-        <a href="/blogs/start" class="scroll-link">Blog</a>
+        <a href="/blogs/0-start" class="scroll-link">Blog</a>
     </div>
 
 
