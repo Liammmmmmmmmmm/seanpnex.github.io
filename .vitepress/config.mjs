@@ -30,7 +30,7 @@ export default withMermaid(
       },
       aside: "left",
       socialLinks: [
-        { icon: 'github', link: 'https://github.com/SEANPNEX/seanpnex.github.io' },
+        { icon: 'github', link: 'https://github.com/Lidamn/liampage.git' },
       ],
       footer: {
         copyright: "Copyright@ 2024 Sean Guo",
