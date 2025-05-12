@@ -9,4 +9,4 @@ next:
 
 # Start
 
-The note space of Sean
+The note space

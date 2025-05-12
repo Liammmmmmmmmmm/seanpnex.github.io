@@ -11,12 +11,11 @@ layout: page
 
     const members = [
     {        
-        avatar: "https://github.com/SEANPNEX.png",
-        name: "Sean Guo",
-        title: "Developer | Data Analyst | Business Analyst",
+        avatar: "https://github.com/Lidamn.png",
+        name: "李天籁",
+        title: "算法工程师 | 数据分析师",
         links: [
-            {icon: "github", link: "https://github.com/SEANPNEX"},
-            {icon: "linkedin", link: "https://www.linkedin.com/in/shun-guo-61393a196/"}
+            {icon: "github", link: "https://github.com/Lidamn"}
         ]
         }
     ]
@@ -28,7 +27,7 @@ layout: page
         我的资料
     </template>
     <template #lead>
-        杜克金融科技一年级学生
+        Duke ECE 研究生
     </template>
   </VPTeamPageTitle>
   <VPTeamMembers
