@@ -3,13 +3,13 @@
 layout: home
 
 hero:
-  name: "Sean's Homepage"
+  name: "Liam's Homepage"
   text: ""
   tagline: Go! Go! Go!
   actions:
     - theme: brand
       text: My Github
-      link: https://github.com/SEANPNEX
+      link: https://github.com/Lidamn
     - theme: alt
       text: Examples
       link: /examples/api-examples.md

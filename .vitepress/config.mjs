@@ -9,7 +9,7 @@ export default withMermaid(
     base:"/liampage/",
     head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     title: "Sean's Homepage",
-    description: "Sean's Homepage",
+    description: "Liam's Homepage",
     markdown: {
       math: true,
     },
@@ -33,7 +33,7 @@ export default withMermaid(
         { icon: 'github', link: 'https://github.com/Lidamn/liampage' },
       ],
       footer: {
-        copyright: "Copyright@ 2024 Sean Guo",
+        copyright: "Copyright@ 2025 Tianlai Li",
       },
       search: {
         provider: "local",
@@ -92,82 +92,6 @@ export default withMermaid(
                   footer: {
                     selectText: "选择",
                     navigateText: "切换",
-                  },
-                },
-              },
-            },
-          },
-        },
-      },
-      jp: {
-        label: '日本語',
-        lang: 'ja',
-        themeConfig: {
-          outlineTitle: "アウトライン",
-          nav: [
-            { text: 'ホーム', link: '/jp/' },
-            { text: 'プロジェクト', link: '/jp/projects/NCCP.md' },
-            { text: '履歴書', link: '/jp/resume/resume.md' },
-            { text: 'ブログ', link: '/jp/blogs/start.md' },
-          ],
-          sidebar: {
-            "/jp/examples": set_sidebar("/jp/examples"),
-            "/jp/resume": set_sidebar("/jp/resume"),
-            '/jp/blogs': set_sidebar('/jp/blogs'),
-            '/jp/projects': set_sidebar('/jp/projects'),
-          },
-          search: {
-            provider: "local",
-            options: {
-              translations: {
-                button: {
-                  buttonText: "検索",
-                  buttonAriaLabel: "検索",
-                },
-                modal: {
-                  noResultsText: "結果が見つかりません",
-                  resetButtonTitle: "検索をクリア",
-                  footer: {
-                    selectText: "選択",
-                    navigateText: "切り替え",
-                  },
-                },
-              },
-            },
-          },
-        },
-      },
-      fr: {
-        label: 'Français',
-        lang: 'fr',
-        themeConfig: {
-          outlineTitle: "Plan",
-          nav: [
-            { text: 'Accueil', link: '/fr/' },
-            { text: 'Projets', link: '/fr/projects/NCCP.md' },
-            { text: 'CV', link: '/fr/resume/resume.md' },
-            { text: 'Blog', link: '/fr/blogs/start.md' },
-          ],
-          sidebar: {
-            "/fr/examples": set_sidebar("/fr/examples"),
-            "/fr/resume": set_sidebar("/fr/resume"),
-            '/fr/blogs': set_sidebar('/fr/blogs'),
-            '/fr/projects': set_sidebar('/fr/projects'),
-          },
-          search: {
-            provider: "local",
-            options: {
-              translations: {
-                button: {
-                  buttonText: "Rechercher",
-                  buttonAriaLabel: "Rechercher",
-                },
-                modal: {
-                  noResultsText: "Aucun résultat",
-                  resetButtonTitle: "Effacer la recherche",
-                  footer: {
-                    selectText: "Choisir",
-                    navigateText: "Changer",
                   },
                 },
               },
