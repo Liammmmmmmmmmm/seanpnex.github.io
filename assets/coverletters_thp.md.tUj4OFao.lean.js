@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as r}from"./chunks/framework.iB_dRcV4.js";const l=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"coverletters/thp.md","filePath":"coverletters/thp.md"}'),a={name:"coverletters/thp.md"};function o(s,c,n,p,_,d){return r(),t("div")}const m=e(a,[["render",o]]);export{l as __pageData,m as default};
