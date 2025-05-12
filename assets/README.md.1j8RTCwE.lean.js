@@ -1,0 +1,1 @@
+import{_ as a,c as s,o as t,a3 as i}from"./chunks/framework.CswI76e5.js";const u=JSON.parse('{"title":"seanpnex.github.io","description":"","frontmatter":{},"headers":[],"relativePath":"README.md","filePath":"README.md"}'),n={name:"README.md"};function o(r,e,l,p,d,h){return t(),s("div",null,e[0]||(e[0]=[i("",36)]))}const g=a(n,[["render",o]]);export{u as __pageData,g as default};
