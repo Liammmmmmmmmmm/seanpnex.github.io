@@ -6,7 +6,7 @@ import { withMermaid } from "vitepress-plugin-mermaid";
 // https://vitepress.dev/reference/site-config
 export default withMermaid(
   defineConfig({
-    base:"/",
+    base:"/liampage/",
     head: [["link", { rel: "icon", href: "/favicon.ico" }]],
     title: "Sean's Homepage",
     description: "Sean's Homepage",
