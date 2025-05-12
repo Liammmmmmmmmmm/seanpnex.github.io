@@ -12,7 +12,7 @@ layout: page
     const members = [
     {        
         avatar: "https://github.com/Lidamn.png",
-        name: "Sean Guo",
+        name: "Tianlai Li",
         title: "Data Analyst | Algorithm Engineer",
         links: [
             {icon: "github", link: "https://github.com/Lidamn"},
